@@ -1,0 +1,34 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="main_activity_bottom_tv">30px</dimen>
+    <dimen name="main_activity_title_tv">25px</dimen>
+    <dimen name="quan_tablayout_tv">40px</dimen>
+    <dimen name="topic_title_tv">30px</dimen>
+    <dimen name="topic_other_tv">25px</dimen>
+    <dimen name="title_tv">40px</dimen>
+    <dimen name="hot_username">28px</dimen>
+    <dimen name="hot_title">30px</dimen>
+    <dimen name="hot_content">28px</dimen>
+    <dimen name="login_btn">30px</dimen>
+    <dimen name="normal_tv">30px</dimen>
+    <dimen name="dots_height">60px</dimen>
+    <dimen name="dots_margin_bottom">40px</dimen>
+    <dimen name="header_hight">88px</dimen>
+    <dimen name="big_loadpic_height">240px</dimen>
+    <dimen name="small_loadpic_height">120px</dimen>
+    <dimen name="middle_loadpic_height">160px</dimen>
+    <dimen name="middle_loadpic_width">160px</dimen>
+    <dimen name="list_marigin">20px</dimen>
+    <dimen name="head_size">48px</dimen>
+    <dimen name="news_title">36px</dimen>
+    <dimen name="page_title">44px</dimen>
+    <dimen name="common_text">26px</dimen>
+    <dimen name="shop_title">28px</dimen>
+    <dimen name="shop_price">27px</dimen>
+    <dimen name="title">30px</dimen>
+    <dimen name="goods_price">33px</dimen>
+
+
+</resources>

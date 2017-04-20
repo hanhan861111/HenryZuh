@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+>
+
+   <com.henryzu.henryzu.views.NoScrollViewPager
+       android:id="@+id/vp_main"
+       android:layout_width="match_parent"
+       android:layout_weight="9"
+       android:layout_height="0px"></com.henryzu.henryzu.views.NoScrollViewPager>
+    <RadioGroup
+        android:id="@+id/rg_main"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="0px">
+        <RadioButton
+            android:id="@+id/home_rb"
+            android:button="@null"
+            android:text="首页"
+            android:checked="true"
+            android:drawableTop="@drawable/home_page"
+            android:gravity="center"
+            android:layout_width="0px"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+        <RadioButton
+            android:id="@+id/category_rb"
+            android:button="@null"
+            android:text="产品"
+            android:drawableTop="@drawable/category_page"
+            android:gravity="center"
+            android:layout_width="0px"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+        <RadioButton
+            android:id="@+id/classroom_rb"
+            android:text="中医课堂"
+            android:gravity="center"
+            android:button="@null"
+            android:drawableTop="@drawable/classroom_page"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+        <RadioButton
+            android:id="@+id/shoppingcart_rb"
+            android:text="中医知识"
+            android:gravity="center"
+            android:button="@null"
+            android:drawableTop="@drawable/shoppingcart_page"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+        <RadioButton
+            android:id="@+id/mine_rb"
+            android:text="我的"
+            android:gravity="center"
+            android:button="@null"
+            android:drawableTop="@drawable/mine_page"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content" />
+    </RadioGroup>
+</com.zhy.autolayout.AutoLinearLayout>

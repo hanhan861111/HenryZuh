@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F95D51</color>
+    <color name="colorPrimaryDark">#F95D51</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="main_bottom_tv_check">#F95D51</color>
+    <color name="red">#f00</color>
+    <color name="main_bottom_tv_normal">#9E9E9E</color>
+    <color name="Gray1">#f0fff0</color>
+    <color name="gray">#D8DEE3</color>
+    <color name="white">#fff</color>
+    <color name="yellow">#F6CC16</color>
+    <color name="hot_tab_selected">#FFDD00</color>
+    <color name="black">#000</color>
+    <color name="header_title">#3d3b3b</color>
+    <color name="translate">#77000000</color>
+    <color name="green">#74E327</color>
+    <color name="Red">#f95d51</color>
+    <color name="White">#ffffff</color>
+    <color name="Black">#000</color>
+    <color name="Gray">#eee0e5</color>
+    <color name="square">#cac3c3</color>
+    <color name="c1">#f95d51</color>
+    <color name="c2">#ff9c00</color>
+    <color name="c3">#7dcd43</color>
+    <color name="c4">#f95d51</color>
+    <color name="c5">#34b3ee</color>
+    <color name="c6">#90369a</color>
+    <color name="topic_tv">#6e6b6e</color>
+    <color name="hot_content">#575757</color>
+    <color name="item_space">#a9a6a9</color>
+    <color name="course_info">#FF484545</color>
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#c873f4</color>
+    <color name="bg_screen5">#f59825</color>
+    <color name="top_bg_color">#18B4ED</color>
+    <color name="colorTextBlack">#535050</color>
+    <color name="colorClickBg">#c1bcbc</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorTextMain">#FC6B87</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="dot_dark_screen2">#14a895</color>
+    <color name="dot_dark_screen3">#2278d4</color>
+    <color name="dot_dark_screen4">#a854d4</color>
+    <color name="dot_dark_screen5">#f57f17</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#93c6fd</color>
+    <color name="dot_light_screen4">#e4b5fc</color>
+    <color name="dot_light_screen5">#fbc02d</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+        <item>@color/dot_light_screen5</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+        <item>@color/dot_dark_screen5</item>
+    </array>
+    <color name="no_item_color">#ffffffff</color>
+
+
+
+</resources>
