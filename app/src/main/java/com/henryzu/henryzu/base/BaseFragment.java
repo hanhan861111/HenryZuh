@@ -13,7 +13,7 @@ import com.henryzu.henryzu.views.ShowingPage;
 
 /**
  * Created by 韩永光
- * on 2017/2/14 16:32.
+ * on 2017/2/14 16:32.m
  */
 public abstract class BaseFragment extends Fragment {
 

@@ -102,7 +102,7 @@ public class LoginActivity extends AutoLayoutActivity implements View.OnClickLis
     @Override
     public void onClick(View v) {
         switch (v.getId()) {
-            //选择御泥坊账号登录
+            //选择账号登录
             case R.id.login_ynf:
                 loginynf.setTextColor(getResources().getColor(R.color.colorTextMain));
                 loginmobile.setTextColor(Color.GRAY);
